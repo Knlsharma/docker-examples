@@ -1,6 +1,6 @@
 Django==3.0.2
 django-crispy-forms==1.8.1
-django-debug-toolbar==2.1
+django-debug-toolbar==2.2.1
 django-dynamic-db-router==0.3.0
 django-profiling-dashboard==0.2
 django-query-exchange==0.5
